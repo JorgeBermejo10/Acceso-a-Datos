@@ -1,0 +1,7 @@
+print("¿Cual es tu nombre?")
+nombre= input()
+print("¿Cual es tu edad?")
+edad= input()
+años= int(edad)
+dias=(años*365)
+print("Has vivido", dias,"dias")
